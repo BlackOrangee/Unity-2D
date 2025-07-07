@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: cd8766a7b8099944392d8a5ae6dbbfca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7727517360326772652
+    second: Start (Moving) (64x64) - Copy_0
+  - first:
+      213: 5285268721617977036
+    second: Start (Moving) (64x64) - Copy_1
+  - first:
+      213: -478402785030687855
+    second: Start (Moving) (64x64) - Copy_2
+  - first:
+      213: 4143402658006500657
+    second: Start (Moving) (64x64) - Copy_3
+  - first:
+      213: 1056957886272924926
+    second: Start (Moving) (64x64) - Copy_4
+  - first:
+      213: 4178123531382342145
+    second: Start (Moving) (64x64) - Copy_5
+  - first:
+      213: -2313668836004203841
+    second: Start (Moving) (64x64) - Copy_6
+  - first:
+      213: -127263476609638290
+    second: Start (Moving) (64x64) - Copy_7
+  - first:
+      213: -6749720043988683909
+    second: Start (Moving) (64x64) - Copy_8
+  - first:
+      213: -6753660206781624555
+    second: Start (Moving) (64x64) - Copy_9
+  - first:
+      213: -7066137214301723392
+    second: Start (Moving) (64x64) - Copy_10
+  - first:
+      213: -8336425903271957048
+    second: Start (Moving) (64x64) - Copy_11
+  - first:
+      213: -6163605780991220682
+    second: Start (Moving) (64x64) - Copy_12
+  - first:
+      213: -5250617096976996242
+    second: Start (Moving) (64x64) - Copy_13
+  - first:
+      213: -1182970259269896115
+    second: Start (Moving) (64x64) - Copy_14
+  - first:
+      213: 6006872035894310693
+    second: Start (Moving) (64x64) - Copy_15
+  - first:
+      213: -8788817942280537290
+    second: Start (Moving) (64x64) - Copy_16
+  - first:
+      213: 8925990304754303003
+    second: Start (Moving) (64x64) - Copy_17
+  - first:
+      213: 3916963671374119853
+    second: Start (Moving) (64x64) - Copy_18
+  - first:
+      213: -2756788319633160702
+    second: Start (Moving) (64x64) - Copy_19
+  - first:
+      213: 2468116500714251604
+    second: Start (Moving) (64x64) - Copy_20
+  - first:
+      213: -5052894096954467810
+    second: Start (Moving) (64x64) - Copy_21
+  - first:
+      213: 655314154699612832
+    second: Start (Moving) (64x64) - Copy_22
+  - first:
+      213: -3971138815481510668
+    second: Start (Moving) (64x64) - Copy_23
+  - first:
+      213: -2967940183523373812
+    second: Start (Moving) (64x64) - Copy_24
+  - first:
+      213: -8270099512738462414
+    second: Start (Moving) (64x64) - Copy_25
+  - first:
+      213: 582990095821886159
+    second: Start (Moving) (64x64) - Copy_26
+  - first:
+      213: -6792042811662509780
+    second: Start (Moving) (64x64) - Copy_27
+  - first:
+      213: -8011212463778219631
+    second: Start (Moving) (64x64) - Copy_28
+  - first:
+      213: -2802438043818848969
+    second: Start (Moving) (64x64) - Copy_29
+  - first:
+      213: 6283701259148966543
+    second: Start (Moving) (64x64) - Copy_30
+  - first:
+      213: -5297757770064637920
+    second: Start (Moving) (64x64) - Copy_31
+  - first:
+      213: -5144029167386528386
+    second: Start (Moving) (64x64) - Copy_32
+  - first:
+      213: -5874334072777955773
+    second: Start (Moving) (64x64) - Copy_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458fe0627e752c490800000000000000
+      internalID: -7727517360326772652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceb58656eb095940800000000000000
+      internalID: 5285268721617977036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19330b2a33f5c59f0800000000000000
+      internalID: -478402785030687855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13503e7c3c2508930800000000000000
+      internalID: 4143402658006500657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc68d9f8911bae00800000000000000
+      internalID: 1056957886272924926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102ceb3173dabf930800000000000000
+      internalID: 4178123531382342145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2f316b37234efd0800000000000000
+      internalID: -2313668836004203841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e602dc3da8edb3ef0800000000000000
+      internalID: -127263476609638290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7378bca16d2452a0800000000000000
+      internalID: -6749720043988683909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f071903dd2642a0800000000000000
+      internalID: -6753660206781624555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005a06f34a900fd90800000000000000
+      internalID: -7066137214301723392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd2c1b2fc01f4c80800000000000000
+      internalID: -8336425903271957048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6346978c239767aa0800000000000000
+      internalID: -6163605780991220682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68e71bb19f0227b0800000000000000
+      internalID: -5250617096976996242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48bd5c11de359fe0800000000000000
+      internalID: -1182970259269896115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52735b67a42bc5350800000000000000
+      internalID: 6006872035894310693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bf9ca85a8d70680800000000000000
+      internalID: -8788817942280537290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b100677e3ec7fdb70800000000000000
+      internalID: 8925990304754303003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da34d56c4b9db5630800000000000000
+      internalID: 3916963671374119853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206c15f11abedb9d0800000000000000
+      internalID: -2756788319633160702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4556a5971e2804220800000000000000
+      internalID: 2468116500714251604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a5c57179380e9b0800000000000000
+      internalID: -5052894096954467810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2e72f60c4281900800000000000000
+      internalID: 655314154699612832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4857d894ea3e8c0800000000000000
+      internalID: -3971138815481510668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d4b7eb022cfc6d0800000000000000
+      internalID: -2967940183523373812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235c71e5f44ba3d80800000000000000
+      internalID: -8270099512738462414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2d8014762371800800000000000000
+      internalID: 582990095821886159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295c9f6c01ddb1a0800000000000000
+      internalID: -6792042811662509780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199315c95b472d090800000000000000
+      internalID: -8011212463778219631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d0325727dbb19d0800000000000000
+      internalID: -2802438043818848969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8abf32b001343750800000000000000
+      internalID: 6283701259148966543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0205b3970659a76b0800000000000000
+      internalID: -5297757770064637920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e757dabf9bcbc98b0800000000000000
+      internalID: -5144029167386528386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64) - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346a81cc84c2a7ea0800000000000000
+      internalID: -5874334072777955773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Start (Moving) (64x64) - Copy_0: -7727517360326772652
+      Start (Moving) (64x64) - Copy_1: 5285268721617977036
+      Start (Moving) (64x64) - Copy_10: -7066137214301723392
+      Start (Moving) (64x64) - Copy_11: -8336425903271957048
+      Start (Moving) (64x64) - Copy_12: -6163605780991220682
+      Start (Moving) (64x64) - Copy_13: -5250617096976996242
+      Start (Moving) (64x64) - Copy_14: -1182970259269896115
+      Start (Moving) (64x64) - Copy_15: 6006872035894310693
+      Start (Moving) (64x64) - Copy_16: -8788817942280537290
+      Start (Moving) (64x64) - Copy_17: 8925990304754303003
+      Start (Moving) (64x64) - Copy_18: 3916963671374119853
+      Start (Moving) (64x64) - Copy_19: -2756788319633160702
+      Start (Moving) (64x64) - Copy_2: -478402785030687855
+      Start (Moving) (64x64) - Copy_20: 2468116500714251604
+      Start (Moving) (64x64) - Copy_21: -5052894096954467810
+      Start (Moving) (64x64) - Copy_22: 655314154699612832
+      Start (Moving) (64x64) - Copy_23: -3971138815481510668
+      Start (Moving) (64x64) - Copy_24: -2967940183523373812
+      Start (Moving) (64x64) - Copy_25: -8270099512738462414
+      Start (Moving) (64x64) - Copy_26: 582990095821886159
+      Start (Moving) (64x64) - Copy_27: -6792042811662509780
+      Start (Moving) (64x64) - Copy_28: -8011212463778219631
+      Start (Moving) (64x64) - Copy_29: -2802438043818848969
+      Start (Moving) (64x64) - Copy_3: 4143402658006500657
+      Start (Moving) (64x64) - Copy_30: 6283701259148966543
+      Start (Moving) (64x64) - Copy_31: -5297757770064637920
+      Start (Moving) (64x64) - Copy_32: -5144029167386528386
+      Start (Moving) (64x64) - Copy_33: -5874334072777955773
+      Start (Moving) (64x64) - Copy_4: 1056957886272924926
+      Start (Moving) (64x64) - Copy_5: 4178123531382342145
+      Start (Moving) (64x64) - Copy_6: -2313668836004203841
+      Start (Moving) (64x64) - Copy_7: -127263476609638290
+      Start (Moving) (64x64) - Copy_8: -6749720043988683909
+      Start (Moving) (64x64) - Copy_9: -6753660206781624555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

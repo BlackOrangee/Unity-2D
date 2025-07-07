@@ -61,7 +61,18 @@
     <Analyzer Include="D:\Unity\6000.1.6f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Moovement_NEW_Input.cs" />
+    <Compile Include="Assets\Scripts\PlayerControllerScript.cs" />
+    <Compile Include="Assets\Scripts\CustomizablePlayerControllerScript.cs" />
+    <Compile Include="Assets\Scripts\PrarallaxBackgroundScript.cs" />
+    <Compile Include="Assets\Scripts\EnvironmentTouchTriger.cs" />
     <Compile Include="Assets\Scripts\Mooviment.cs" />
+    <Compile Include="Assets\Scripts\PauseMenu.cs" />
+    <Compile Include="Assets\Free 2D Cartoon Parallax Background\Demo\Script\BackgroundControl_0.cs" />
+    <Compile Include="Assets\Scripts\NewLevel_Trigger.cs" />
+    <Compile Include="Assets\Free 2D Cartoon Parallax Background\Demo\Script\ParallaxBackground_0.cs" />
+    <Compile Include="Assets\Scripts\MenuScript.cs" />
+    <Compile Include="Assets\Scripts\CameraControllerScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Sprites\NPCs\Evil Wizard\License.txt" />
