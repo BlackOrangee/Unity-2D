@@ -11,5 +11,12 @@ public class PlayerItemsController : MonoBehaviour
             itemAmount++;
             Destroy(collision.gameObject);
         }
+
+        if (collision.gameObject.GetComponent<CollectableItem>() != null)
+        {
+            itemAmount++;
+
+            collision.gameObject.GetComponent<CollectableItem>().CollectItem();
+        }
     }
 }
