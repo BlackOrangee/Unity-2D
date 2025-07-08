@@ -1,22 +1,20 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
+using TMPro;
 
 public class Overlay : MonoBehaviour
 {
+    // Hearts
     public Sprite heartFull;
     public Sprite heartBlank;
     public GameObject heartObj;
     public Transform heartsPanel;
     public float spacing = 40f;
-
     private List<Image> hearts = new List<Image>();
 
-    //void Start()
-    //{
-    //    GenerateHearts(maxHealth);
-    //    SetHealth(maxHealth);
-    //}
+    // Items
+    public GameObject itemObj;
 
     public void Initialize(int maxHealth)
     {
@@ -68,6 +66,16 @@ public class Overlay : MonoBehaviour
         for (int i = 0; i < hearts.Count; i++)
         {
             hearts[i].sprite = i < health ? heartFull : heartBlank;
+        }
+    }
+
+    public void SetItems(int items)
+    {
+        Text text = itemObj.GetComponentInChildren<Text>();
+
+        if (text != null)
+        {
+            text.text = items.ToString();
         }
     }
 }
