@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class CustomizablePlayerControllerScript : MonoBehaviour
@@ -277,5 +278,10 @@ public class CustomizablePlayerControllerScript : MonoBehaviour
         {
             animator.SetTrigger(takeHitTriggerName);
         }
+    }
+
+    public void StuckByGettingDamage()
+    {
+        rb2d.linearVelocity = new Vector2(0, 0);
     }
 }

@@ -7,7 +7,6 @@ public class PlayerHealthController : MonoBehaviour
 
     public int mainMenuIndex = 0;
 
-    public Transform spawnPoint;
 
     public Overlay overlay;
 
@@ -23,6 +22,8 @@ public class PlayerHealthController : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        gameObject.GetComponent<CustomizablePlayerControllerScript>().StuckByGettingDamage();
+
         health -= damage;
         overlay.SetHealth(health);
         if (health <= 0)
@@ -30,7 +31,7 @@ public class PlayerHealthController : MonoBehaviour
             Die();
         }
 
-        transform.position = spawnPoint.position;
+        gameObject.GetComponent<CheckPointManager>().LoadLastPoint();
     }
         
     private void Die()
