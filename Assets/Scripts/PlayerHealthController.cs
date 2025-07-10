@@ -29,10 +29,11 @@ public class PlayerHealthController : MonoBehaviour
         if (health <= 0)
         {
             Die();
-            return;
         }
-
-        gameObject.GetComponent<CheckPointManager>().LoadLastPoint();
+        else
+        {
+            gameObject.GetComponent<CheckPointManager>().LoadLastPoint();
+        }
     }
         
     private void Die()

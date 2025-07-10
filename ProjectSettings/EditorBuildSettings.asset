@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuScene.unity
     guid: 6911a81354ad997438fc854ee4d04790
   - enabled: 0
@@ -23,12 +23,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TileScene_5.unity
     guid: 3db3f9f2689deb0488cb47261c79cf6e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PixelAdventures.unity
     guid: 5205c4ae67ecea042baaaa3c6d33687f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PixelAdventure_2.unity
     guid: f0bbb074298f9984fbef5e386b3b3250
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: dcf3d5a801bf44d4f903606699ab2f08
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

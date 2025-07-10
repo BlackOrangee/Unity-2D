@@ -77,11 +77,13 @@
     <Compile Include="Assets\Scripts\NewLevel_Trigger.cs" />
     <Compile Include="Assets\Free 2D Cartoon Parallax Background\Demo\Script\ParallaxBackground_0.cs" />
     <Compile Include="Assets\Scripts\MenuScript.cs" />
+    <Compile Include="Assets\Scripts\ZodiacScript.cs" />
     <Compile Include="Assets\Scripts\PlayerItemsController.cs" />
     <Compile Include="Assets\Scripts\CollectableItem.cs" />
     <Compile Include="Assets\Scripts\CameraControllerScript.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Sprites\zodiac\New Text Document.txt" />
     <None Include="Assets\Sprites\NPCs\Evil Wizard\License.txt" />
     <None Include="Assets\Sprites\WorldSamples\Pixel2DCastle1.1\about.txt" />
     <None Include="Assets\Sprites\NPCs\Fantasy Warrior\License.txt" />
